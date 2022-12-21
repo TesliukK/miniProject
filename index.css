@@ -1,0 +1,16 @@
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.divUsers {
+    margin: 10px;
+    width: 40%;
+    height: 20vh;
+    background: cornflowerblue;
+    border: 2px solid black;
+
+
+}
