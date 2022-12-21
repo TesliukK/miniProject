@@ -15,7 +15,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
 
 
             const a = document.createElement('a')
-            a.href = 'post-details.html?id=' + user.id;
+            a.href = 'user-details.html?id=' + user.id;
             const button = document.createElement('button')
             button.innerText = 'Details'
 

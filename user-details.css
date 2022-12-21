@@ -1,0 +1,24 @@
+.generalBlock {
+    display: flex;
+    justify-content: center;
+}
+.usersBlocks {
+    width: 40%;
+    background: cornflowerblue;
+}
+.block1 {
+    background: darkslategray;
+}
+.block2 {
+    background: brown;
+}
+.block3 {
+    background: coral;
+}
+.block4 {
+    background: cadetblue;
+}
+.blockBtn {
+    background: green;
+
+}
