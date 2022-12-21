@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="&#10;post">
-      <change afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
+    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="button">
+      <change afterPath="$PROJECT_DIR$/post-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,7 +74,10 @@
       <workItem from="1671573964895" duration="296000" />
       <workItem from="1671609125721" duration="5897000" />
       <workItem from="1671615448998" duration="3000" />
-      <workItem from="1671631865614" duration="12905000" />
+      <workItem from="1671631865614" duration="13216000" />
+      <workItem from="1671651370660" duration="265000" />
+      <workItem from="1671651745602" duration="6000" />
+      <workItem from="1671653078373" duration="2399000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671642419315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="button">
+      <created>1671646654013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671646654013</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="post-details" />
     <MESSAGE value="&#10;post" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;post" />
+    <MESSAGE value="button" />
+    <option name="LAST_COMMIT_MESSAGE" value="button" />
   </component>
 </project>
