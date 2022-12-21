@@ -73,14 +73,21 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
                     cont.classList.add('cont')
                     for (const post of posts) {
                         const postDiv = document.createElement("div")
-                        postDiv.innerText = `${post.id}: ${post.title}`
+                        postDiv.classList.add('postDiv')
+                        const postsP = document.createElement('p')
+                        postsP.innerText = `${post.id}: ${post.title}`
+                        postDiv.appendChild(postsP)
                         cont.appendChild(postDiv)
                         const a = document.createElement('a')
-                        a.href = 'user-details.html?id=' + post.id;
-                        const button = document.createElement('button')
-                        button.innerText = 'Details'
-                        a.appendChild(button)
+                        a.classList.add('a')
+                        a.href = 'post-details.html?id=' + post.id;
+                        const buttons = document.createElement('button')
+                        buttons.classList.add('buttons')
+                        buttons.innerText = 'Details'
+
+                        a.appendChild(buttons)
                         cont.append(a)
+                        postDiv.appendChild(a)
                     }
                     blockBtn.appendChild(cont)
 
@@ -89,8 +96,8 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
 
 
         block4.appendChild(p4)
-        usersBlocks.append(block1, block2, block3, block4, blockBtn)
-        generalBlock.appendChild(usersBlocks)
+        usersBlocks.append(block1, block2, block3, block4)
+        generalBlock.append(usersBlocks, blockBtn)
 
     })
 

@@ -1,24 +1,49 @@
 .generalBlock {
-    display: flex;
-    justify-content: center;
+
 }
+
 .usersBlocks {
-    width: 40%;
+    /*width: 40%;*/
     background: cornflowerblue;
 }
+
 .block1 {
     background: darkslategray;
 }
+
 .block2 {
     background: brown;
 }
+
 .block3 {
     background: coral;
 }
+
 .block4 {
     background: cadetblue;
 }
+
 .blockBtn {
     background: green;
 
+}
+
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.postDiv {
+    box-sizing: border-box;
+    margin: 10px;
+    background: darkgray;
+    width: 17%;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+
+.buttons {
+    
 }
