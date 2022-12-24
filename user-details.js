@@ -66,7 +66,7 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
         blockBtn.appendChild(button)
         button.innerText = 'post of current user'
         button.onclick = function () {
-            fetch('https://jsonplaceholder.typicode.com/posts')
+            fetch(`https://jsonplaceholder.typicode.com/users/${id}/posts/`)
                 .then(value => value.json())
                 .then(posts => {
                     const cont = document.createElement('div')
