@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="&#10;comments">
-      <change afterPath="$PROJECT_DIR$/post-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.js" afterDir="false" />
-    </list>
+    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="&#10;done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +77,7 @@
       <workItem from="1671745129944" duration="3000" />
       <workItem from="1671886506435" duration="10417000" />
       <workItem from="1671973987014" duration="4226000" />
-      <workItem from="1671988275297" duration="7433000" />
+      <workItem from="1671988275297" duration="7477000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
@@ -130,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671978254506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;done">
+      <created>1671995793989</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995793989</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +151,7 @@
     <MESSAGE value="button" />
     <MESSAGE value="comments" />
     <MESSAGE value="&#10;comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;comments" />
+    <MESSAGE value="&#10;done" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;done" />
   </component>
 </project>
