@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="&#10;done">
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/post-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/post-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/post-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/user-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/user-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/user-details.js" afterDir="false" />
-    </list>
+    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\teslu\IdeaProjects\miniProject\project" />
       <recent name="C:\Users\teslu\IdeaProjects\miniProject" />
       <recent name="C:\Users\teslu\IdeaProjects\miniProject\.idea" />
       <recent name="C:\Users\teslu\IdeaProjects\miniProject\page1" />
@@ -89,7 +79,7 @@
       <workItem from="1671886506435" duration="10417000" />
       <workItem from="1671973987014" duration="4226000" />
       <workItem from="1671988275297" duration="7477000" />
-      <workItem from="1671995838419" duration="1321000" />
+      <workItem from="1671995838419" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
@@ -161,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671996321651</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="project">
+      <created>1671997248995</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997248995</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +212,7 @@
     <MESSAGE value="comments" />
     <MESSAGE value="&#10;comments" />
     <MESSAGE value="&#10;done" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;done" />
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
   </component>
 </project>
