@@ -9,15 +9,16 @@ fetch('https://jsonplaceholder.typicode.com/users')
             const divUsers = document.createElement('div')
             divUsers.classList.add('divUsers')
             const h1Id = document.createElement('h2')
-            h1Id.innerHTML = `${user.id}`
-            const name = document.createElement('h3')
-            name.innerHTML = `${user.name}`
+            h1Id.innerHTML = `<b>User - ${user.id}</b>`
+            const name = document.createElement('h2')
+            name.innerHTML = `<b>${user.name}</b>`
 
 
             const a = document.createElement('a')
             a.href = 'user-details.html?id=' + user.id;
             const button = document.createElement('button')
-            button.innerText = 'Details'
+            button.classList.add('button')
+            button.innerText = 'Details of current user'
 
             a.appendChild(button)
             divUsers.append(h1Id, name, a)

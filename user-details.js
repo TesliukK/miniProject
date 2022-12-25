@@ -13,14 +13,11 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
         usersBlocks.classList.add('usersBlocks')
 
         const block1 = document.createElement('div')
-        block1.classList.add('block1')
 
         const h2 = document.createElement('h2')
-        h2.classList.add('h2')
         h2.innerText = `${value.name}`
 
         const p1 = document.createElement('p')
-        p1.classList.add('p1')
         p1.innerText = `Id: ${value.id}
         Name: ${value.name}
         Username: ${value.username}
@@ -28,9 +25,7 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
         block1.append(h2, p1)
 
         const block2 = document.createElement('div')
-        block2.classList.add('block2')
         const p2 = document.createElement('p')
-        p2.classList.add('p2')
         p2.innerText = `Address
         Street: ${value.address.street}
         Suite: ${value.address.suite}
@@ -42,18 +37,13 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
         block2.appendChild(p2)
 
         const block3 = document.createElement('div')
-        block3.classList.add('block3')
         const p3 = document.createElement('p')
-        p3.classList.add('p3')
         p3.innerText = `Phone: ${value.phone}
         Website: ${value.website}`
         block3.appendChild(p3)
 
         const block4 = document.createElement('div')
-        block4.classList.add('block4')
-
         const p4 = document.createElement('p')
-        p4.classList.add('p4')
         p4.innerText = `Company:
         Name: ${value.company.name}
         CatchPhrase: ${value.company.catchPhrase}
@@ -61,6 +51,7 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
 
         const blockBtn = document.createElement('div')
         blockBtn.classList.add('blockBtn')
+        document.body.appendChild(blockBtn)
         const button = document.createElement('button')
         button.classList.add('button')
         blockBtn.appendChild(button)
@@ -97,7 +88,7 @@ fetch('https://jsonplaceholder.typicode.com/users/' + id)
 
         block4.appendChild(p4)
         usersBlocks.append(block1, block2, block3, block4)
-        generalBlock.append(usersBlocks, blockBtn)
+        generalBlock.append(usersBlocks)
 
     })
 

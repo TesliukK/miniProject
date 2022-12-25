@@ -1,5 +1,7 @@
 .container {
-    display:flex;
+    font-family: SansSerif;
+    background: antiquewhite;
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
@@ -7,10 +9,15 @@
 
 .divUsers {
     margin: 10px;
-    width: 40%;
+    width: 35%;
     height: 20vh;
-    background: cornflowerblue;
-    border: 2px solid black;
+    background: darkslategray;
+    color: white;
+    border-radius: 15px;
+}
 
-
+.button {
+    color: white;
+    border-radius: 15px;
+    background: black;
 }

@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="&#10;comments">
+      <change afterPath="$PROJECT_DIR$/post-details.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +23,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,7 +85,8 @@
       <workItem from="1671653078373" duration="2487000" />
       <workItem from="1671745129944" duration="3000" />
       <workItem from="1671886506435" duration="10417000" />
-      <workItem from="1671973987014" duration="4010000" />
+      <workItem from="1671973987014" duration="4226000" />
+      <workItem from="1671988275297" duration="7433000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
@@ -116,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671897425337</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&#10;comments">
+      <created>1671978254506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978254506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
