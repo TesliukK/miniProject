@@ -78,6 +78,7 @@
       <workItem from="1671886506435" duration="10417000" />
       <workItem from="1671973987014" duration="4226000" />
       <workItem from="1671988275297" duration="7477000" />
+      <workItem from="1671995838419" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
@@ -128,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671995793989</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;done">
+      <created>1671995846839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671995846839</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +150,36 @@
             <State />
           </value>
         </entry>
+        <entry key="c66ca63a-2d5a-4c38-86a1-d9c8d124a0fb">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c66ca63a-2d5a-4c38-86a1-d9c8d124a0fb" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
