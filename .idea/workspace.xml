@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="project" />
+    <list default="true" id="dd2f49cc-9b92-491a-9051-a7665fb3566c" name="Changes" comment="project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,7 +53,8 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -80,6 +90,9 @@
       <workItem from="1671973987014" duration="4226000" />
       <workItem from="1671988275297" duration="7477000" />
       <workItem from="1671995838419" duration="1383000" />
+      <workItem from="1675784376457" duration="82000" />
+      <workItem from="1675784476033" duration="90000" />
+      <workItem from="1675784581977" duration="3227000" />
     </task>
     <task id="LOCAL-00001" summary="post-details">
       <created>1671615062827</created>
